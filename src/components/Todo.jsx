@@ -94,7 +94,7 @@ const Todo = ({ user }) => {
         "https://api-inference.huggingface.co/models/facebook/bart-large-mnli",
         {
           headers: {
-            Authorization: "Bearer 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",
+            Authorization: "XXXXXXXX",
             "Content-Type": "application/json",
           },
           method: "POST",
